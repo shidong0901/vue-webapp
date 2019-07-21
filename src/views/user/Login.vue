@@ -43,7 +43,7 @@
     export default {
         data() {
          return{
-           title:'登陆',
+           title:'登 陆',
            titleColor:'red'
          }
         },
